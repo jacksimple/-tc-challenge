@@ -1,5 +1,5 @@
 # tc-challenge
-AI Tinkerers in Ottawa Submission. `finetune_deberta_submission.ipynb` has the code and `requirements.txt` should contain everything needed to replicate it.
+AI Tinkerers Ottawa submission for the challenge [here](https://github.com/EricFillion/tc-challenge). `finetune_deberta_submission.ipynb` has the code and `requirements.txt` should contain everything needed to replicate it.
 
 ## Results
 total: 2388 correct: 2187 accuracy: 91.583%
